@@ -1,0 +1,9 @@
+/Users/alexsnow/antigravityProjects/form-constructor/src/main/java/com/example/formconstructor/FormConstructorApplication.java
+/Users/alexsnow/antigravityProjects/form-constructor/src/main/java/com/example/formconstructor/controller/HealthCheckController.java
+/Users/alexsnow/antigravityProjects/form-constructor/src/main/java/com/example/formconstructor/controller/ProjectController.java
+/Users/alexsnow/antigravityProjects/form-constructor/src/main/java/com/example/formconstructor/domain/FormSnapshot.java
+/Users/alexsnow/antigravityProjects/form-constructor/src/main/java/com/example/formconstructor/entity/Project.java
+/Users/alexsnow/antigravityProjects/form-constructor/src/main/java/com/example/formconstructor/repository/jpa/ProjectRepository.java
+/Users/alexsnow/antigravityProjects/form-constructor/src/main/java/com/example/formconstructor/repository/mongodb/SnapshotRepository.java
+/Users/alexsnow/antigravityProjects/form-constructor/src/main/java/com/example/formconstructor/service/ProjectService.java
+/Users/alexsnow/antigravityProjects/form-constructor/src/main/java/com/example/formconstructor/service/SnapshotService.java
