@@ -1,0 +1,24 @@
+services:
+  postgres:
+    image: postgres:17
+    container_name: form-constructor-postgres
+    environment:
+      POSTGRES_DB: form_constructor
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5433:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  mongodb:
+    image: mongo:latest
+    container_name: form-constructor-mongodb
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+
+volumes:
+  postgres_data:
+  mongo_data:
