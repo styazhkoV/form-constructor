@@ -1,0 +1,11 @@
+com/example/formconstructor/service/ProjectService.class
+com/example/formconstructor/repository/mongodb/SnapshotRepository.class
+com/example/formconstructor/FormConstructorApplication.class
+com/example/formconstructor/controller/ProjectController.class
+com/example/formconstructor/service/SnapshotService.class
+com/example/formconstructor/controller/HealthCheckController.class
+com/example/formconstructor/entity/Project.class
+com/example/formconstructor/domain/FormSnapshot$SectionSnapshot.class
+com/example/formconstructor/repository/jpa/ProjectRepository.class
+com/example/formconstructor/domain/FormSnapshot.class
+com/example/formconstructor/domain/FormSnapshot$QuestionSnapshot.class
